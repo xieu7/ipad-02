@@ -1,0 +1,23 @@
+/* 共用 */
+
+* {
+    font-family: 'Segoe UI';
+    list-style-type: none;
+    margin: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 360px;
+    height: 100%;
+    position: fixed;
+}
+
+.border {
+    width: 780px;
+    height: 1070px;
+    border:solid 2px !important;
+    color: #d0d30c !important;
+}
+
