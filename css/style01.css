@@ -15,9 +15,9 @@ body {
 }
 
 .border {
-    width: 810px;
-    height: 1006px;
+    width: 860px;
+    height: 980px;
     border:solid 2px !important;
-    color: #d0d30c !important;
+    color: #d30c0c !important;
 }
 
